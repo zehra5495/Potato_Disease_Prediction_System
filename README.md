@@ -2,6 +2,9 @@
 ## Project Overview
 ## PATATA - A Potato Disease Prediction System Using Deep Learning
 
+## Major Project by Zehra Zaidi, Mohd Akbar Zaidi
+## Group -25
+
 This repository presents a Potato Disease Prediction system powered by deep learning techniques. The model is built using TensorFlow and Convolutional Neural Networks (CNN) for accurate classification of potato diseases, including early blight, late blight, and healthy states.
 
 ### Technologies Used:
