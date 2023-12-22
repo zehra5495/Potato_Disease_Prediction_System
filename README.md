@@ -21,3 +21,22 @@ This repository presents a Potato Disease Prediction system powered by deep lear
 3. **Training:** The model is trained on the processed dataset with 50 epochs.
 4. **Deployment:** TensorFlow Serving and FastAPI are integrated for efficient model deployment.
 5. **User Interface:** A user-friendly interface is developed using ReactJS for the website and React Native for the mobile application.
+
+## Performance Metrics
+
+### Validation Accuracy
+
+- **First 20 epochs:** 96.24%
+- **First 40 epochs:** 98.96%
+- **First 50 epochs:** 99.42%
+
+
+### Training Time
+
+- **Average time per epoch:** 2 seconds
+
+## Conclusion
+
+This research work successfully demonstrates the applicability of Convolutional Neural Networks in effectively classifying potato leaf conditions. The integration of FastAPI and TensorFlow Serving enhances the system's efficiency and scalability, ensuring farmers have timely access to disease predictions. The user-friendly interfaces developed using ReactJS and React Native contribute to the practical implementation and usability of the system.
+
+Explore the code, contribute to its enhancement, and join in the advancement of potato disease prediction using deep learning techniques.
